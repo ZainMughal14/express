@@ -4,7 +4,7 @@
 
 **This project has a [Code of Conduct][].**
 
-# Zian Mughal
+# Zain Mughal
 
 ## Table of contents
 
